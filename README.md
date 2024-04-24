@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online On34 | Python | Semana 12 | 2024 | <a href="https://www.linkedin.com/in/roberta-cristina-ruedas-martins-96369696/" target="_blank" rel="noopener noreferrer">Professora Roberta Martins</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
