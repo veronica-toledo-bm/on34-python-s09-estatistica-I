@@ -15,9 +15,20 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
+* [1 Introdução à Estatística](#tema1)
 * [Tema2](#tema2)
 * [Tema3](#tema3)
+
+1 Introdução à Estatística
+1.1 Definição e Objetivos da Estatística
+1.2 Classificação de Dados e Variáveis
+1.3 Medidas Descritivas: Média, Mediana, Moda, Variância e Desvio Padrão
+2 Probabilidade
+2.1 Conceitos Fundamentais de Probabilidade
+2.2 Regras de Probabilidade
+3 Amostragem
+
+
 
 ## Conteúdo
 ### Tema1 
