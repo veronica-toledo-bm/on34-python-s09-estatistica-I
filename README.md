@@ -101,6 +101,37 @@ Exemplos:
 - Quantidade de Produtos Vendidos: O número de produtos vendidos em uma loja em um determinado dia é uma variável discreta (por exemplo: 200, 1000, 5000, etc.), pois só pode assumir valores inteiros.
 - Número de Pacientes em um Hospital: O número de pacientes internados em um hospital em um determinado momento é uma variável discreta (por exemplo: 1000, 200, 369, etc.), pois só pode ser um número inteiro.
 
+#### 1.3 Medidas Descritivas: Média, Mediana, Moda, Variância e Desvio Padrão
+
+Medidas descritivas em estatística são técnicas utilizadas para resumir e descrever as características principais de um conjunto de dados. Elas ajudam a compreender melhor a distribuição, a centralidade e a variabilidade dos dados. 
+As medidas descritivas mais comuns incluem:
+1. Medidas de Tendência Central
+2. Medidas de Dispersão
+
+1. Medidas de Tendência Central
+As medidas de tendência central são estatísticas que resumem um conjunto de dados em um único valor que representa o centro ou a posição central dos dados. Elas são úteis para descrever a localização típica dos dados e são amplamente utilizadas na análise estatística. 
+- Média
+- Mediana
+- Moda
+
+2. Medidas de Dispersão
+As medidas de dispersão são estatísticas que indicam o quanto os dados estão espalhados ou dispersos em torno da medida de tendência central. Elas fornecem insights sobre a variabilidade dos dados, o que é crucial para entender a consistência ou a dispersão dos valores dentro de um conjunto de dados. 
+As principais medidas de dispersão incluem:
+- Variância
+- Desvio Padrão
+
+#### Medidas de Tendência Central - Média
+A média é a medida de tendência central mais comum.
+É calculada somando todos os valores dos dados e dividindo pelo número total de valores.
+
+Fórmula para Calcular:
+Média = Soma dos valores / Número de valores
+
+Exemplo:
+Se as idades de cinco amigos são 20, 25, 30, 35 e 40, a média das idades é?
+Média = (20 + 25 + 30 + 35 + 40) / 5 = 30 anos.
+Então em média, os amigos têm 30 anos.
+
 
 
 
