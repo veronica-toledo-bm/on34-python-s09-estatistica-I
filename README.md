@@ -48,7 +48,7 @@ A importância da estatística é evidente em diversas áreas:
 Vantagens de Estudar Estatística:
 - Aprimora o pensamento crítico, auxilia na compreensão da incerteza, favorece decisões racionais e amplia oportunidades profissionais.
 
-Desvantagens de Estudar Estatística:
+Desvantagens de Estudar Estatística:
 - Complexidade, necessidade de softwares/ferramentas, a importância da interpretação correta e suas limitações.
 
 Em resumo, a estatística permite transformar dados brutos em informações úteis e compreensíveis, fornecendo uma base sólida para a compreensão do mundo ao nosso redor e para a formulação de políticas, estratégias e descobertas científicas.
@@ -66,13 +66,20 @@ Elas são divididas em dois tipos:
 - Variáveis Nominais
 - Variáveis Ordinais
 
-Variáveis Nominais: São variáveis que representam categorias sem uma ordem específica. 
+1. Variáveis Nominais: São variáveis que representam categorias sem uma ordem específica. 
 Exemplos:
-Cor dos olhos: Azul, verde, castanho, preto.
-Tipo de carro: SUV, Sedan, Hatch, Pick-up.
-Estado civil: Solteira, casada, divorciada, viúva.
-Profissão: Médica, professora, advogada, engenheira, bióloga, arquiteta.
-![image](https://github.com/user-attachments/assets/25502cc8-e5d0-48ff-b5b9-3fe4ae80f186)
+- Cor dos olhos: Azul, verde, castanho, preto.
+- Tipo de carro: SUV, Sedan, Hatch, Pick-up.
+- Estado civil: Solteira, casada, divorciada, viúva.
+- Profissão: Médica, professora, advogada, engenheira, bióloga, arquiteta.
+
+2. Variáveis Ordinais: São variáveis que possuem uma ordem ou hierarquia natural entre as categorias. 
+Exemplos:
+- Nível de Educação: Ensino Fundamental, Ensino Médio, Graduação, Pós-graduação e assim por diante.
+- Nível Socioeconômico: Baixo, Médio e Alto.
+- Classificação de Dor: Sem dor, Dor leve, Dor moderada, Dor intensa.
+- Classificação de Satisfação: Muito insatisfeito, Insatisfeito, Neutro, Satisfeito, Muito satisfeito.
+- Classificação de Desempenho: Abaixo das expectativas, Atende às expectativas, Excede as expectativas.
 
 
 
