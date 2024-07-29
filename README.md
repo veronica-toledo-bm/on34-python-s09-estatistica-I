@@ -81,9 +81,25 @@ Exemplos:
 - Classificação de Satisfação: Muito insatisfeito, Insatisfeito, Neutro, Satisfeito, Muito satisfeito.
 - Classificação de Desempenho: Abaixo das expectativas, Atende às expectativas, Excede as expectativas.
 
+As VARIÁVEIS QUANTITATIVAS representam quantidades numéricas que podem ser medidas ou contadas. 
+Elas são divididas em dois tipos:
+- Variáveis Contínuas
+- Variáveis Discretas
 
+1. Variáveis Contínuas: São variáveis que podem assumir qualquer valor dentro de um intervalo (ou seja, podem ser medidas dentro de um intervalo contínuo). 
+Exemplos:
+- Altura: A altura de uma pessoa pode ser medida com precisão variável (por exemplo, 165,2 cm, 170,5 cm, etc.). É uma variável contínua porque pode assumir um número infinito de valores dentro de um intervalo.
+- Temperatura: A temperatura em graus Celsius ou Fahrenheit pode ser medida com qualquer grau de precisão (por exemplo, 25,3°C, 30,1°C, etc.). É uma variável contínua porque pode assumir valores em uma escala contínua
+- Peso: O peso de uma pessoa pode ser medido com qualquer precisão (por exemplo, 65,4 kg, 70,2 kg, etc.). É uma variável contínua porque pode assumir valores em uma escala contínua.
+- Tempo: O tempo decorrido em horas, minutos e segundos. É uma variável contínua, pois pode ser medido com qualquer grau de precisão.
 
-
+2. Variáveis Discretas: São variáveis que assumem valores específicos e geralmente são contáveis (ou seja, podem ser contadas, números inteiros).
+Exemplos:
+- Número de Filhos: O número de filhos em uma família é uma variável discreta porque só pode assumir valores inteiros (por exemplo, 0, 1, 2, 3, etc.).
+- Número de Carros em um Estacionamento: O número de carros em um estacionamento em um determinado momento é uma variável discreta, pois só pode assumir valores inteiros, (por exemplo: 10, 50,170, etc.).
+- Pontuação em um Teste: A pontuação obtida por um aluno em um teste (por exemplo, 7, 8, 9, 10), geralmente expressa em números inteiros, é uma variável discreta.
+- Quantidade de Produtos Vendidos: O número de produtos vendidos em uma loja em um determinado dia é uma variável discreta (por exemplo: 200, 1000, 5000, etc.), pois só pode assumir valores inteiros.
+- Número de Pacientes em um Hospital: O número de pacientes internados em um hospital em um determinado momento é uma variável discreta (por exemplo: 1000, 200, 369, etc.), pois só pode ser um número inteiro.
 
 
 
